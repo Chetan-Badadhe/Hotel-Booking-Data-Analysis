@@ -48,6 +48,14 @@ The pivot table shows that most guests were assigned the same room type they res
 
 The pie chart shows that most hotel bookings (59.1%) come from Online Travel Agents, followed by Offline TA/TO (15.9%) and Direct bookings (13.5%). Other channels like Groups, Corporate, Complementary, and Aviation contribute marginally, indicating heavy reliance on online platforms for guest reservations.
 
+**5] Analysing avg price per night(ARD) of various room-types for all the market segment.**
+
+<img width="821" height="515" alt="ard" src="https://github.com/user-attachments/assets/a946bff8-b1be-45d7-a659-61b08fa34dd9" />.
+
+The bar chart displays average daily rates (ADR) across market segments and reserved room types. Online TA and Offline TA/TO segments show the highest ADRs, especially for room types L, H, and G. Complementary and Undefined segments have the lowest ADRs, indicating minimal or no revenue contribution.
+
+
+
 
 
 
