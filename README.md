@@ -1,4 +1,4 @@
-**Hotel Booking Data Analysis using Python.***
+**Hotel Booking Data Analysis using Python.**
 
 ***Project Overview:***
 To analyze hotel booking data to uncover insights into customer behavior, booking trends, cancellation patterns, and operational efficiency using data visualization and statistical tools.
