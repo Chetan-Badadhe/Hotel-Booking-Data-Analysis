@@ -31,6 +31,7 @@ Discovered key trends such as higher cancellation rates among city hotel booking
 5. The hotels analyzed may be located in Portugal, as domestic guests often outnumber international ones in such datasets.
 
 **2] Creating Graph as country wise data.**
+
 <img width="700" height="360" alt="newplot (1)" src="https://github.com/user-attachments/assets/d83bbdce-d3df-4f67-b7fb-0ddf526f10de" />.
 
 The choropleth map visualizes the number of hotel guests by their home country. **Portugal** (PRT) is the most prominent source, with over **17,000 guests**, highlighted in bright yellow. Other European nations such as the **UK, France, Spain, and Germany** also contribute significantly, shown in lighter shades. In contrast, countries from Africa, Asia, and South America appear in darker colors, indicating fewer guests. The visualization reveals a clear concentration of hotel guests from **Europe**, especially **Western Europe**.
