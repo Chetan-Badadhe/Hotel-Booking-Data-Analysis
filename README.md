@@ -12,4 +12,15 @@ Dataset Information:
 2.  Resort Hotel
 - This dataset contains a mix of categorical, numerical, and date-related features relevant to hotel bookings.
 
+Goal:
+My goal was to analyze data to identify:
+1. Where do the maximum Guest come from which country.
+2. Creating Graph as country wise data.
+3. Pivot table for differnce between assigned and reserved room types using Levergae the normalize the parameter of croasstab.
+4. Which market segment has highest bookings.
+5. Analysing avg price per night(ARD) of various room-types for all the market segment.
+6. Analyze the Distribution of "Guest_Arrivle".
+
+
+
 
