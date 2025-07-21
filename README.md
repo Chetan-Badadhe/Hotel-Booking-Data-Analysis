@@ -54,6 +54,16 @@ The pie chart shows that most hotel bookings (59.1%) come from Online Travel Age
 
 The bar chart displays average daily rates (ADR) across market segments and reserved room types. Online TA and Offline TA/TO segments show the highest ADRs, especially for room types L, H, and G. Complementary and Undefined segments have the lowest ADRs, indicating minimal or no revenue contribution.
 
+**6] Analyze the Distribution of "Guest_Arrivle".**
+
+<img width="575" height="446" alt="dis" src="https://github.com/user-attachments/assets/4398142d-5fcd-4013-bb78-a6010640a622" />.
+
+The density plot shows the distribution of average daily rates (ADR) in hotel bookings. The distribution is right-skewed, with most values concentrated between 50 and 200. The peak density occurs around 150, indicating that this is the most common ADR value. Fewer bookings have ADRs above 250, with a gradual taper toward higher values. This suggests that mid-range pricing is most prevalent, while high-end rates are relatively rare.
+
+
+
+
+
 
 
 
