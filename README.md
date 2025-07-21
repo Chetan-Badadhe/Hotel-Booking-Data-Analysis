@@ -15,7 +15,7 @@ Discovered key trends such as higher cancellation rates among city hotel booking
 ***Goal:***
 1. Where do the maximum Guest come from which country.
 2. Creating Graph as country wise data.
-3. Pivot table for differnce between assigned and reserved room types using Levergae the normalize the parameter of croasstab.
+3. Pivot table for differnce between assigned and reserved room types.
 4. Which market segment has highest bookings.
 5. Analysing avg price per night(ARD) of various room-types for all the market segment.
 6. Analyze the Distribution of "Guest_Arrivle".
@@ -35,6 +35,15 @@ Discovered key trends such as higher cancellation rates among city hotel booking
 <img width="700" height="360" alt="newplot (1)" src="https://github.com/user-attachments/assets/d83bbdce-d3df-4f67-b7fb-0ddf526f10de" />.
 
 The choropleth map visualizes the number of hotel guests by their home country. **Portugal** (PRT) is the most prominent source, with over **17,000 guests**, highlighted in bright yellow. Other European nations such as the **UK, France, Spain, and Germany** also contribute significantly, shown in lighter shades. In contrast, countries from Africa, Asia, and South America appear in darker colors, indicating fewer guests. The visualization reveals a clear concentration of hotel guests from **Europe**, especially **Western Europe**.
+
+**3] Pivot table for differnce between assigned and reserved room types.**
+
+<img width="466" height="306" alt="pivot" src="https://github.com/user-attachments/assets/dbafe8de-2cf2-415b-9674-04709ecdf358" />
+
+The pivot table shows that most guests were assigned the same room type they reserved. Minor mismatches occurred, mainly for room types A, D, and H. Room type H had notable cross-assignments, while types B, C, and F showed high accuracy in assignment, indicating effective room allocation overall.
+
+
+
 
 
 
