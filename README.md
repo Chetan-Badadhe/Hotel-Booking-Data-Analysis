@@ -1,5 +1,4 @@
 Hotel Booking Data Analysis using Python.
-Overview:
-Discovered key trends such as higher cancellation rates among city hotel bookings, seasonal peaks in 
-reservations, and the impact of lead time, deposit type, and distribution channel on cancellations. Identified customer 
-segments with higher booking reliability and revenue contribution.
+
+Project Overview:
+Discovered key trends such as higher cancellation rates among city hotel bookings, seasonal peaks in reservations, and the impact of lead time, deposit type, and distribution channel on cancellations. Identified customer segments with higher booking reliability and revenue contribution.
