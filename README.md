@@ -12,7 +12,7 @@ Discovered key trends such as higher cancellation rates among city hotel booking
 2.  Resort Hotel
 - This dataset contains a mix of categorical, numerical, and date-related features relevant to hotel bookings.
 
-***Goal:***
+***Goals:***
 1. Where do the maximum Guest come from which country.
 2. Creating Graph as country wise data.
 3. Pivot table for differnce between assigned and reserved room types.
