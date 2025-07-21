@@ -23,11 +23,10 @@ Goal:
 1] Where do the maximum Guest come from which country.
 <img width="751" height="465" alt="guest coming from" src="https://github.com/user-attachments/assets/b3b9ffa5-239a-45ed-99cb-0f49e70cc461" />.
 
-### 📊 **Conclusion from the Chart: Top 5 Countries by Number of Guests**
-
-1. **Portugal (PRT)** leads significantly in the number of hotel guests, indicating a strong domestic travel trend or hotel popularity among locals.
-2. **United Kingdom (GBR)** and **France (FRA)** follow as top foreign contributors to hotel bookings.
-3. **Spain (ESP)** and **Germany (DEU)** are also notable source countries, though with lower guest numbers compared to the top three.
+📊 **Conclusion from the Chart: Top 5 Countries by Number of Guests**
+1. Portugal (PRT) leads significantly in the number of hotel guests, indicating a strong domestic travel trend or hotel popularity among locals.
+2. United Kingdom (GBR) and France (FRA) follow as top foreign contributors to hotel bookings.
+3. Spain (ESP) and Germany (DEU) are also notable source countries, though with lower guest numbers compared to the top three.
 4. The large gap between Portugal and other countries suggests domestic tourism plays a dominant role in hotel occupancy.
 5. The hotels analyzed may be located in Portugal, as domestic guests often outnumber international ones in such datasets.
 
