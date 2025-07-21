@@ -42,6 +42,14 @@ The choropleth map visualizes the number of hotel guests by their home country. 
 
 The pivot table shows that most guests were assigned the same room type they reserved. Minor mismatches occurred, mainly for room types A, D, and H. Room type H had notable cross-assignments, while types B, C, and F showed high accuracy in assignment, indicating effective room allocation overall.
 
+**4] Which market segment has highest bookings.**
+
+<img width="800" height="600" alt="newplot (2)" src="https://github.com/user-attachments/assets/7dc751df-04c7-4a35-a960-c7b7e96b3429" />.
+
+The pie chart shows that most hotel bookings (59.1%) come from Online Travel Agents, followed by Offline TA/TO (15.9%) and Direct bookings (13.5%). Other channels like Groups, Corporate, Complementary, and Aviation contribute marginally, indicating heavy reliance on online platforms for guest reservations.
+
+
+
 
 
 
