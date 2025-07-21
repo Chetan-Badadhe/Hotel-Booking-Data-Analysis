@@ -61,6 +61,19 @@ The bar chart displays average daily rates (ADR) across market segments and rese
 The density plot shows the distribution of average daily rates (ADR) in hotel bookings. The distribution is right-skewed, with most values concentrated between 50 and 200. The peak density occurs around 150, indicating that this is the most common ADR value. Fewer bookings have ADRs above 250, with a gradual taper toward higher values. This suggests that mid-range pricing is most prevalent, while high-end rates are relatively rare.
 
 
+**📊 Tools & Technologies Used:**
+- Python for data handling and scripting.
+- Pandas and NumPy for data cleaning and manipulation.
+- Matplotlib and Seaborn for static visualizations.
+- Plotly for interactive plots.
+- Jupyter Notebook for coding and presenting analysis
+
+
+
+
+
+
+
 
 
 
